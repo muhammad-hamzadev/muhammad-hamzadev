@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a Software Engineer based in Peshawar, Pakistan, specializing in **Python/FastAPI backend development** and **AI/ML integration**. I'm passionate about building scalable, production-grade systems and exploring autonomous AI agents.
 
@@ -33,7 +33,7 @@ I'm a Software Engineer based in Peshawar, Pakistan, specializing in **Python/Fa
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -63,7 +63,7 @@ I'm a Software Engineer based in Peshawar, Pakistan, specializing in **Python/Fa
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 #### 🎓 [Quizior](https://quizior.live) — AI-Powered Exam & Quiz Evaluation Platform
 An AI-based exam/quiz platform built with FastAPI and Groq-hosted LLMs, capable of automatically grading **subjective (essay-style) answers** at scale. Core evaluation pipeline achieves **~92% accuracy** across real student testing (100+ students), with a 4-stage grading pipeline and a full teacher dashboard.
@@ -104,7 +104,7 @@ A tool built for CUSIT classmates that scrapes the university LMS and sends auto
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - Harvard CS50p & CS50x
 - Multiple Cisco Networking Academy (NetAcad) Certificates
@@ -112,7 +112,7 @@ A tool built for CUSIT classmates that scrapes the university LMS and sends auto
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=REPLACE-WITH-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -124,7 +124,7 @@ A tool built for CUSIT classmates that scrapes the university LMS and sends auto
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 I'm open to freelance backend/AI projects, collaborations, and interesting conversations about AI, software engineering, and building products with real-world impact.
 
@@ -135,4 +135,4 @@ I'm open to freelance backend/AI projects, collaborations, and interesting conve
 - 📘 Facebook: [Muhammad Hamza](https://www.facebook.com/share/1B4Xfw2KL4/)
 - 💚 Fiverr: [Hire Me](https://www.fiverr.com/sellers/i_hamza_ali/)
 
-<p align="center">⭐ Thanks for visiting my profile!</p>
+<p align="center">Thanks for visiting my profile!</p>
