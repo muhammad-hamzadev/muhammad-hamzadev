@@ -10,9 +10,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/REPLACE-WITH-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/REPLACE-WITH-TWITTER-HANDLE"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://instagram.com/REPLACE-WITH-INSTAGRAM-HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://fiverr.com/REPLACE-WITH-FIVERR-HANDLE"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
+  <a href="https://x.com/i_hamza_06"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/muhammadhamzadev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/share/1B4Xfw2KL4/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.fiverr.com/sellers/i_hamza_ali/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
   <a href="https://hamzax.me"><img src="https://img.shields.io/badge/Portfolio-239B8F?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
@@ -129,8 +130,9 @@ I'm open to freelance backend/AI projects, collaborations, and interesting conve
 
 - 🌐 Portfolio: [hamzax.me](https://hamzax.me)
 - 💼 LinkedIn: [Muhammad Hamza](https://linkedin.com/in/REPLACE-WITH-LINKEDIN-HANDLE)
-- 🐦 Twitter/X: [@REPLACE-WITH-TWITTER-HANDLE](https://twitter.com/REPLACE-WITH-TWITTER-HANDLE)
-- 📷 Instagram: [@REPLACE-WITH-INSTAGRAM-HANDLE](https://instagram.com/REPLACE-WITH-INSTAGRAM-HANDLE)
-- 💚 Fiverr: [Hire Me](https://fiverr.com/REPLACE-WITH-FIVERR-HANDLE)
+- 🐦 X (Twitter): [@i_hamza_06](https://x.com/i_hamza_06)
+- 📷 Instagram: [@muhammadhamzadev](https://www.instagram.com/muhammadhamzadev)
+- 📘 Facebook: [Muhammad Hamza](https://www.facebook.com/share/1B4Xfw2KL4/)
+- 💚 Fiverr: [Hire Me](https://www.fiverr.com/sellers/i_hamza_ali/)
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
